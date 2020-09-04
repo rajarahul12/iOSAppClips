@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocol</key>
+	<string>http</string>
+	<key>host</key>
+	<string>mobilefoundation.srihari-dal10-b3c-32x128-c33bf0f22ab59313b3628c493e016b88-0000.us-south.containers.appdomain.cloud</string>
+	<key>port</key>
+	<string>80</string>
+	<key>wlServerContext</key>
+	<string>/mfp/</string>
+	<key>languagePreferences</key>
+	<string>en</string>
+</dict>
+</plist>
